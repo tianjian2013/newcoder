@@ -60,6 +60,7 @@ cout<<sl.FirstAppearingOnce()<<endl;
 sl.Insert('o');
 sl.Insert('g');
 sl.Insert('l');
+sl.Insert('g');
 sl.Insert('e');
 cout<<sl.FirstAppearingOnce()<<endl;
 return 0;
